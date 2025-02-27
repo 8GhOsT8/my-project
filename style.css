@@ -127,6 +127,7 @@ footer {
 @media all and (max-width: 500px) {
     body {
         font-size: 10px;
+        font-weight: 900;
     }
     .flex-nav ul { 
         display: none;
