@@ -148,4 +148,7 @@ footer {
     .content .goods {
         margin: 50px 40px;
     }
+    .flex-nav a {
+    font-weight: 900;
+    }
 }
